@@ -2,7 +2,7 @@ import os
 import requests
 
 USERNAME = "ukihunter"
-TOKEN = os.environ["GITHUB_TOKEN"]
+TOKEN = os.environ["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"]
 
 def get_repos(url):
     repos = []
