@@ -30,19 +30,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## My Projects
 
-| Project Name | Description | Link |
-| ------------ | ----------- | ---- |
-| Ukihunter |  | [https://github.com/ukihunter/Ukihunter](https://github.com/ukihunter/Ukihunter) |
-| Modern-Admin-Dashboard | A modern dashboard web application built with Next.js featuring product and user management, analytics, and a responsive UI. | [https://github.com/ukihunter/Modern-Admin-Dashboard](https://github.com/ukihunter/Modern-Admin-Dashboard) |
-| zphisher | An automated phishing tool with 30+ templates. This Tool is made for educational purpose only ! Author will not be responsible for any misuse of this toolkit ! | [https://github.com/ukihunter/zphisher](https://github.com/ukihunter/zphisher) |
-| BlurText | BlurText is a minimalist, real-time messaging app that lets users share thoughts anonymously and instantly. Designed for quick, unfiltered communication, BlurText focuses on privacy, simplicity, and speed — no profiles, no history, just pure conversation. | [https://github.com/ukihunter/BlurText](https://github.com/ukihunter/BlurText) |
-| DedSec | Check the README file below to see how amazing this is! (NO ROOT IS NEEDED!) | [https://github.com/ukihunter/DedSec](https://github.com/ukihunter/DedSec) |
-
-## Collaborative Projects
-
-| Project Name            | Description                                  | Link                                 |
-| ----------------------- | -------------------------------------------- | ------------------------------------ |
-| Collaborative Project 1 | Brief description of Collaborative Project 1 | [Link to Collaborative Project 1](#) |
-| Collaborative Project 2 | Brief description of Collaborative Project 2 | [Link to Collaborative Project 2](#) |
