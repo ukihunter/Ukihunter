@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="emoj.gif" alt="anime banner" width="100%" />
+</p>
+
 ## 💫 About Me
 
 Hi there 👋 I'm Uthpala Wijekoon
