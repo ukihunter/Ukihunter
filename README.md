@@ -1,6 +1,17 @@
-# 💫 About Me:
+## 💫 About Me
 
-👋 Hi, I'm Uthpala Wijekoon!<br>🌱 Undergraduate | Software Engineering Student | 23 Years Old<br><br>I'm an undergraduate student at ESOFT Metro Campus studying Software Engineering. I'm passionate about technology, programming, and continuously learning new skills. I'm here to build projects, share what I learn, and contribute to the open-source community.<br><br>🚀 Skills & Interests<br>- Programming Languages: Python, Java, JavaScript<br>- Web Development: HTML, CSS, PHP, SQL, WordPress, Next.JS<br>- Other Interests: Cybersecurity, AI, Data Science, Game Development<br>🎯 Current Goals<br>Deepen my knowledge in software development and engineering principles<br>Build projects to gain hands-on experience in full-stack development<br>Contribute to open-source projects and expand my GitHub portfolio
+Hi there 👋 I'm Uthpala Wijekoon
+
+🎓 Undergraduate Software Engineering Student
+📍 Currently pursuing a Top-Up degree in Software Engineering at London Metropolitan University
+🌱 Passionate about technology, coding, and continuous learning
+
+I enjoy building real-world projects, exploring new technologies, and contributing to the developer community. I'm focused on growing as a full-stack developer and strengthening my problem-solving skills.
+
+## 🌟 Best Project I've Built  (According to me 😎 )
+- 🥇 rank 1: null – collaborative ide (collaborative coding environment using next.js & tailwind)  
+- 🥈 rank 2: youtube extensions (speed control, visual filters, screenshots)  
+- 🥉 rank 3: loomest pos (real-world php pos system used in a company)       
 
 ## 🌐 Socials:
 
