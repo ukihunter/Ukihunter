@@ -15,8 +15,11 @@ Hi there 👋 I'm Uthpala Wijekoon
 I enjoy building real-world projects, exploring new technologies, and contributing to the developer community. I'm focused on growing as a full-stack developer and strengthening my problem-solving skills.
 
 ## 🌟 Best Project I've Built  (According to me 😎 )
-- 🥇 rank 1: null – collaborative ide (collaborative coding environment using next.js & tailwind)  
-- 🥈 rank 2: youtube extensions (speed control, visual filters, screenshots)  
+
+- 🥇 rank 1: null – collaborative ide (collaborative coding environment using next.js & tailwind)
+  
+- 🥈 rank 2: youtube extensions (speed control, visual filters, screenshots)
+  
 - 🥉 rank 3: loomest pos (real-world php pos system used in a company)       
 
 <table>
