@@ -24,8 +24,9 @@ I enjoy building real-world projects, exploring new technologies, and contributi
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukihunter&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Ukihunter&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /></td>
+    <!-- <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ukihunter&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Ukihunter&theme=cobalt&hide_border=false&include_all_commits=true&count_private=true" /></td> -->
+   <td><img src="https://ghstats.dev/api/card?username=Ukihunter"/></td>
   </tr>
   <tr>
     <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Ukihunter&theme=cobalt&hide_border=false" /></td>
