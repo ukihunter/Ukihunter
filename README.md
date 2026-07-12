@@ -4,15 +4,18 @@
 
 ## 💫 About Me
 
-Hi there 👋 I'm Uthpala Wijekoon
+Hi there! 👋 I'm **Uthpala Wijekoon**.
 
-- 🎓 Undergraduate Software Engineering Student
+🎓 Software Engineering graduate from **London Metropolitan University** with a passion for building modern, scalable web applications.
 
-- 📍 Currently pursuing a Top-Up degree in Software Engineering at London Metropolitan University
+💻 I enjoy transforming ideas into real-world solutions using clean code, thoughtful design, and modern technologies.
 
-- 🌱 Passionate about technology, coding, and continuous learning
+🚀 My primary focus is full-stack development, with experience in **TypeScript, React, Next.js, Node.js, PostgreSQL**, and cloud-ready applications.
 
-I enjoy building real-world projects, exploring new technologies, and contributing to the developer community. I'm focused on growing as a full-stack developer and strengthening my problem-solving skills.
+🌱 I believe every project is an opportunity to learn something new, refine my craft, and build software that makes an impact.
+
+> *"Building software that people remember—not just software that works."*
+
 
 ## 🌟 Best Project I've Built  (According to me 😎 )
 
