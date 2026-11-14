@@ -2,28 +2,11 @@
   "username": "ukihunter",
   "widgets": [
     {
-      "widgetId": "header",
-      "name": "Header Widget",
-      "position": {
-        "x": 0,
-        "y": 0
-      },
-      "size": {
-        "width": 800,
-        "height": 90
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 1,
-      "instanceId": "widget_1794646397894_0"
-    },
-    {
       "widgetId": "ascii-art",
       "name": "Ascii-art Widget",
       "position": {
         "x": 0,
-        "y": 106
+        "y": 0
       },
       "size": {
         "width": 280,
@@ -11514,7 +11497,8 @@
             "#030303",
             "#030303"
           ]
-        ]
+        ],
+        "accentColor": "#ffb800"
       },
       "locked": false,
       "visible": true,
@@ -11525,8 +11509,8 @@
       "widgetId": "terminal-info",
       "name": "Terminal-info Widget",
       "position": {
-        "x": 296,
-        "y": 106
+        "x": 286,
+        "y": 8
       },
       "size": {
         "width": 504,
@@ -11539,131 +11523,83 @@
       "instanceId": "widget_1794646397894_2"
     },
     {
-      "widgetId": "languages",
-      "name": "Languages Widget",
+      "instanceId": "widget_b7d28cb5-ee13-4f57-b8ce-b463b5e8c994",
+      "widgetId": "controlplane-patchbay",
+      "name": "Controlplane-patchbay Widget",
       "position": {
         "x": 0,
-        "y": 402
-      },
-      "size": {
-        "width": 536,
-        "height": 160
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 4,
-      "instanceId": "widget_1794646397894_3"
-    },
-    {
-      "widgetId": "footer",
-      "name": "Footer Widget",
-      "position": {
-        "x": 0,
-        "y": 578
+        "y": 408
       },
       "size": {
         "width": 800,
-        "height": 50
-      },
-      "config": {},
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1794646397894_4"
-    },
-    {
-      "widgetId": "tech-stack",
-      "name": "Tech-stack Widget",
-      "position": {
-        "x": 544,
-        "y": 402
-      },
-      "size": {
-        "width": 240,
-        "height": 160
+        "height": 330
       },
       "config": {
-        "selectedTechs": [
-          "js",
-          "ts",
-          "html",
-          "css",
-          "py",
-          "rust",
-          "go",
-          "cpp"
-        ],
-        "theme": "dark",
-        "perLine": 4
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 6,
-      "instanceId": "widget_1794646397894_5"
-    },
-    {
-      "instanceId": "widget_577e86d7-1db8-421b-9f29-06d7bbf1bb13",
-      "widgetId": "godprofile-neural",
-      "name": "Godprofile-neural Widget",
-      "position": {
-        "x": 0,
-        "y": 644
-      },
-      "size": {
-        "width": 800,
-        "height": 320
-      },
-      "config": {
-        "accentColor": "#b6a891"
-      },
-      "locked": false,
-      "visible": true,
-      "zIndex": 7
-    },
-    {
-      "instanceId": "widget_a9c1bf12-2c4d-47e6-927b-3f226768a9d3",
-      "widgetId": "godprofile-trophies",
-      "name": "Godprofile-trophies Widget",
-      "position": {
-        "x": 0,
-        "y": 980
-      },
-      "size": {
-        "width": 800,
-        "height": 280
-      },
-      "config": {
-        "accentColor": "#b6a891"
+        "layoutType": "closed-loop",
+        "accentColor": "#ffb800",
+        "backgroundColor": "#c5ff4a"
       },
       "locked": false,
       "visible": true,
       "zIndex": 8
     },
     {
-      "instanceId": "widget_d728daa8-b86c-4c88-8f81-f1fd78f85a2b",
-      "widgetId": "godprofile-marquee",
-      "name": "Godprofile-marquee Widget",
+      "instanceId": "widget_b6d2454d-a605-49af-b38f-cf831f1bb5c7",
+      "widgetId": "surveillance-telemetry",
+      "name": "Surveillance-telemetry Widget",
       "position": {
-        "x": 0,
-        "y": 1276
+        "x": 10,
+        "y": 744
       },
       "size": {
-        "width": 800,
-        "height": 120
+        "width": 780,
+        "height": 384
       },
       "config": {
-        "accentColor": "#b6a891"
+        "accentColor": "#ffb800",
+        "customTitle": "Terminal Telemetry"
       },
       "locked": false,
       "visible": true,
-      "zIndex": 9
+      "zIndex": 7
+    },
+    {
+      "instanceId": "widget_1613bae4-aa04-4385-8504-f0350adf13e4",
+      "widgetId": "ascii-text",
+      "name": "Ascii-text Widget",
+      "position": {
+        "x": 0,
+        "y": 296
+      },
+      "size": {
+        "width": 800,
+        "height": 96
+      },
+      "config": {
+        "customText": "UKI HUNTER",
+        "asciiFont": "block",
+        "charSpacing": 1,
+        "fontSize": 12,
+        "charset": "default",
+        "customCharset": "",
+        "asciiLines": [
+          "██    ██ ██    ██ ████████      ██    ██ ██    ██ ██    ██ ████████ ████████ ███████▄",
+          "██    ██ ██  ▄█▀     ██         ██    ██ ██    ██ ███   ██    ██    ██       ██    ██",
+          "██    ██ █████▄      ██         ████████ ██    ██ ██▀█  ██    ██    ██████   ███████▀",
+          "██    ██ ██  ▀██▄    ██         ██    ██ ██    ██ ██ ▀█ ██    ██    ██       ██  ▀██▄",
+          " ▀████▀  ██    ██ ████████      ██    ██  ▀████▀  ██   ███    ██    ████████ ██    ██"
+        ],
+        "accentColor": "#ff4a4a"
+      },
+      "locked": false,
+      "visible": true,
+      "zIndex": 6
     }
   ],
   "globalStyles": {
-    "backgroundColor": "#060606",
+    "backgroundColor": "transparent",
     "textColor": "#e5e5e5",
-    "accentColor": "#c5ff4a",
+    "accentColor": "#00ffff",
     "borderColor": "#252525",
     "fontFamily": "'JetBrains Mono', monospace",
     "borderRadius": 5,
@@ -11675,7 +11611,7 @@
   "templateId": "terminal",
   "profileSlug": "default",
   "metadata": {
-    "revision": "rev_1794646981236_yofuk",
-    "updatedAt": "2026-11-14T09:03:05.677Z"
+    "revision": "rev_1794648108893_25kz4",
+    "updatedAt": "2026-11-14T09:21:54.840Z"
   }
 }
